@@ -2,8 +2,8 @@
 
 <p align="center"><b>EN</b> · <a href="#deutsch">DE</a></p>
 
-**Kupschina Real Estate AG** owns and lets residential houses in the canton of Aargau, Switzerland.
-Small on purpose: few houses, long tenancies, and a direct line to the owner.
+**Kupschina Real Estate AG** owns and lets a few residential houses in the canton of Aargau, Switzerland.
+It stays small on purpose: long tenancies, and you deal with the owner directly.
 
 - **For rent from early 2027:** a detached 6.5-room family house in Rüfenach AG. Details on
   [kupschina.com](https://kupschina.com).
@@ -13,8 +13,8 @@ Small on purpose: few houses, long tenancies, and a direct line to the owner.
 
 ---
 
-**Die Kupschina Real Estate AG** besitzt und vermietet Wohnhäuser im Kanton Aargau. Bewusst klein:
-wenige Häuser, lange Mietverhältnisse und der direkte Draht zum Eigentümer.
+**Die Kupschina Real Estate AG** besitzt und vermietet wenige Wohnhäuser im Kanton Aargau. Bewusst klein:
+lange Mietverhältnisse, und Sie haben den direkten Draht zum Eigentümer.
 
 - **Ab Anfang 2027 zu vermieten:** freistehendes 6½-Zimmer-Einfamilienhaus in Rüfenach AG. Alle
   Angaben auf [kupschina.com](https://kupschina.com).
